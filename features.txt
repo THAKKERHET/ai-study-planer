@@ -1,0 +1,60 @@
+⭐ Core Features (Best for College Project)
+1) Smart Doubt Solver
+
+  Student types a question:
+
+  AI explains the answer in simple language
+
+  Gives examples
+
+  Step-by-step solutions
+
+  Example:
+
+  “Explain polymerization in simple words.”
+
+2) Notes Summarizer
+
+  Student uploads or pastes notes, and AI:
+
+  Summarizes long notes
+
+  Highlights important points
+
+  Makes short revision notes
+
+3) Automatic Quiz Generator
+
+  System:
+
+  Generates quiz questions from notes
+
+  MCQ, true/false, short answer
+
+  Gives score & feedback
+
+  Great for exam preparation.
+
+4) Study Planner
+
+  AI creates a study plan based on:
+
+  Exam date
+
+  Subjects
+
+  Available study time
+
+  Example:
+
+  “Study 2 hours daily for 20 days.”
+
+5) Revision Reminder System
+
+  Reminds students:
+
+  What to revise
+
+  When to revise
+
+  Pending chapters
